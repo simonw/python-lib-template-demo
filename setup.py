@@ -30,4 +30,5 @@ setup(
     install_requires=[],
     extras_require={"test": ["pytest"]},
     tests_require=["python-lib-template-demo[test]"],
+    python_requires=">=3.6",
 )
