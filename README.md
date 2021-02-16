@@ -8,7 +8,7 @@ Demonstrating https://github.com/simonw/python-lib
 
 ## Installation
 
-Install this plugin using `pip`:
+Install this library using `pip`:
 
     $ pip install python-lib-template-demo
 
