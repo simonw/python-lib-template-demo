@@ -1,7 +1,7 @@
 # python-lib-template-demo
 
 [![PyPI](https://img.shields.io/pypi/v/python-lib-template-demo.svg)](https://pypi.org/project/python-lib-template-demo/)
-[![Changelog](https://img.shields.io/github/v/release/simonw/python-lib-template-demo?label=changelog)](https://github.com/simonw/python-lib-template-demo/releases)
+[![Changelog](https://img.shields.io/github/v/release/simonw/python-lib-template-demo?include_prereleases&label=changelog)](https://github.com/simonw/python-lib-template-demo/releases)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/simonw/python-lib-template-demo/blob/main/LICENSE)
 
 Demonstrating https://github.com/simonw/python-lib
