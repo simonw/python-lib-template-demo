@@ -10,7 +10,7 @@ Demonstrating https://github.com/simonw/python-lib
 
 Install this library using `pip`:
 
-    $ pip install python-lib-template-demo
+    pip install python-lib-template-demo
 
 ## Usage
 
