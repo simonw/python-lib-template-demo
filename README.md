@@ -10,9 +10,9 @@ Demonstrating https://github.com/simonw/python-lib
 ## Installation
 
 Install this library using `pip`:
-
-    pip install python-lib-template-demo
-
+```bash
+pip install python-lib-template-demo
+```
 ## Usage
 
 Usage instructions go here.
@@ -20,15 +20,16 @@ Usage instructions go here.
 ## Development
 
 To contribute to this library, first checkout the code. Then create a new virtual environment:
-
-    cd python-lib-template-demo
-    python -m venv venv
-    source venv/bin/activate
-
+```bash
+cd python-lib-template-demo
+python -m venv venv
+source venv/bin/activate
+```
 Now install the dependencies and test dependencies:
-
-    pip install -e '.[test]'
-
+```bash
+pip install -e '.[test]'
+```
 To run the tests:
-
-    pytest
+```bash
+pytest
+```
