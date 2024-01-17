@@ -13,6 +13,10 @@ dependencies = [
 
 ]
 
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
 [project.urls]
 Homepage = "https://github.com/simonw/python-lib-template-demo"
 Changelog = "https://github.com/simonw/python-lib-template-demo/releases"
